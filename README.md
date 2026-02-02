@@ -48,7 +48,7 @@ Open the URL shown in the terminal (e.g. `http://localhost:8501`).
 
 ## How to use
 
-- **First time:** Set a passphrase (at least 8 characters). This encrypts all your entries. You’ll need it each time you open the app.
+- **First time:** Set a passphrase (at least 8 characters). This encrypts all your entries. You’ll need it each time you open the app. Use 12345678 for first time.
 - **Journal:** See today’s prompt, write your entry, and save. Use “Get another prompt” for a different question. With AI on, Diary can generate prompts and a weekly reflection from your entries.
 - **Insights:** Calendar view of days you wrote, with mood; click a date to view or edit that day. Recurring themes appear as a bar chart.
 - **Reflection:** With AI on, generate “Your week in reflection” from your last 7 days of entries.

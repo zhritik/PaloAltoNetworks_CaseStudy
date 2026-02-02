@@ -1,0 +1,240 @@
+[
+  {
+    "id": "entry_1769980016604_6fff65",
+    "content": "Quiet day. I spent more time with my thoughts than people. It wasn\u2019t bad, just reflective. I\u2019m learning things about myself slowly.",
+    "createdAt": 1769846400000,
+    "sentimentScore": -2.7115,
+    "sentimentLabel": "negative",
+    "themes": [
+      "quiet",
+      "day",
+      "spent",
+      "time",
+      "thoughts",
+      "people",
+      "bad",
+      "reflective"
+    ]
+  },
+  {
+    "id": "entry_1769980008005_ecc792",
+    "content": "Laughing came easily today. Jokes landed, music hit right, and the day felt lighter. I wish I could bottle days like this.",
+    "createdAt": 1769760000000,
+    "sentimentScore": 4.4785,
+    "sentimentLabel": "positive",
+    "themes": [
+      "laughing",
+      "came",
+      "easily",
+      "today",
+      "jokes",
+      "landed",
+      "music",
+      "hit"
+    ]
+  },
+  {
+    "id": "entry_1769979996386_3b7db8",
+    "content": "I felt overwhelmed. Too many thoughts, too many expectations. I tried to remind myself that I don\u2019t need to solve my whole life at once.",
+    "createdAt": 1769673600000,
+    "sentimentScore": 1.25,
+    "sentimentLabel": "positive",
+    "themes": [
+      "many",
+      "felt",
+      "overwhelmed",
+      "thoughts",
+      "expectations",
+      "tried",
+      "remind",
+      "need"
+    ]
+  },
+  {
+    "id": "entry_1769979986782_a8f367",
+    "content": "Today was surprisingly good. Things just worked. No big joy, but a steady sense that everything was okay. I didn\u2019t rush the day away.",
+    "createdAt": 1769587200000,
+    "sentimentScore": 1.5515,
+    "sentimentLabel": "positive",
+    "themes": [
+      "today",
+      "surprisingly",
+      "good",
+      "things",
+      "worked",
+      "big",
+      "joy",
+      "steady"
+    ]
+  },
+  {
+    "id": "entry_1769979979523_3a2de4",
+    "content": "I miss someone today. Not because something happened, just because memories showed up uninvited. I hope missing someone doesn\u2019t always mean going backward.",
+    "createdAt": 1769500800000,
+    "sentimentScore": 0.129,
+    "sentimentLabel": "neutral",
+    "themes": [
+      "someone",
+      "miss",
+      "today",
+      "something",
+      "happened",
+      "memories",
+      "showed",
+      "uninvited"
+    ]
+  },
+  {
+    "id": "entry_1769979970191_abca9f",
+    "content": "Small win today. I spoke up when I normally would have stayed quiet. It wasn\u2019t perfect, but it felt honest. I want to do that more.",
+    "createdAt": 1769414400000,
+    "sentimentScore": 4.3205,
+    "sentimentLabel": "positive",
+    "themes": [
+      "small",
+      "win",
+      "today",
+      "spoke",
+      "normally",
+      "would",
+      "stayed",
+      "quiet"
+    ]
+  },
+  {
+    "id": "entry_1769979962381_349ce8",
+    "content": "Today made me question a few things. My direction, my choices, my pace compared to others. I know comparison isn\u2019t helpful, but it still sneaks in.",
+    "createdAt": 1769328000000,
+    "sentimentScore": 1.1315,
+    "sentimentLabel": "positive",
+    "themes": [
+      "today",
+      "made",
+      "question",
+      "things",
+      "direction",
+      "choices",
+      "pace",
+      "compared"
+    ]
+  },
+  {
+    "id": "entry_1769979939558_d85fe4",
+    "content": "I\u2019m proud of myself today. I chose rest instead of forcing productivity. Took a walk, listened to music, and let myself breathe. I don\u2019t do that often enough.",
+    "createdAt": 1769241600000,
+    "sentimentScore": 2.3835,
+    "sentimentLabel": "positive",
+    "themes": [
+      "proud",
+      "today",
+      "chose",
+      "rest",
+      "instead",
+      "forcing",
+      "productivity",
+      "took"
+    ]
+  },
+  {
+    "id": "entry_1769979927142_1aeb78",
+    "content": "Pretty average day. Work, food, phone, sleep. Nothing stood out. These days blur together, but they also keep life moving.",
+    "createdAt": 1769155200000,
+    "sentimentScore": 1.366,
+    "sentimentLabel": "positive",
+    "themes": [
+      "pretty",
+      "average",
+      "day",
+      "work",
+      "food",
+      "phone",
+      "sleep",
+      "nothing"
+    ]
+  },
+  {
+    "id": "entry_1769979916227_745ed3",
+    "content": "I felt low today for no clear reason. Everything felt heavier than usual. I still showed up and did what I had to do, but it took effort. Maybe that counts for something.",
+    "createdAt": 1769068800000,
+    "sentimentScore": -1.414,
+    "sentimentLabel": "negative",
+    "themes": [
+      "felt",
+      "low",
+      "today",
+      "clear",
+      "reason",
+      "everything",
+      "heavier",
+      "usual"
+    ]
+  },
+  {
+    "id": "entry_1769979904460_c0cf19",
+    "content": "Met a friend today after a long time. We laughed like nothing had changed. Moments like this remind me that I\u2019m not as alone as I sometimes feel.",
+    "createdAt": 1768982400000,
+    "sentimentScore": 4.494,
+    "sentimentLabel": "positive",
+    "themes": [
+      "like",
+      "met",
+      "friend",
+      "today",
+      "long",
+      "time",
+      "laughed",
+      "nothing"
+    ]
+  },
+  {
+    "id": "entry_1769979883615_82bd1f",
+    "content": "Not a great day. I kept replaying old conversations in my head. Things I should have said differently. It\u2019s tiring how the mind refuses to let go sometimes.",
+    "createdAt": 1768896000000,
+    "sentimentScore": -2.548,
+    "sentimentLabel": "negative",
+    "themes": [
+      "great",
+      "day",
+      "kept",
+      "replaying",
+      "old",
+      "conversations",
+      "head",
+      "things"
+    ]
+  },
+  {
+    "id": "entry_1769979876020_eda51",
+    "content": "I woke up feeling motivated for once. Finished a task I had been avoiding for days. It felt good to finally stop procrastinating. I should remember this feeling next time I delay things.",
+    "createdAt": 1768809600000,
+    "sentimentScore": 1.3944999999999999,
+    "sentimentLabel": "positive",
+    "themes": [
+      "feeling",
+      "woke",
+      "motivated",
+      "finished",
+      "task",
+      "avoiding",
+      "days",
+      "felt"
+    ]
+  },
+  {
+    "id": "entry_1769979864255_5b53f9",
+    "content": "Today felt calm. Nothing special happened, and honestly that was nice. I worked, ate decent food, and went to bed without overthinking too much. I wish more days were like this.",
+    "createdAt": 1768723200000,
+    "sentimentScore": 4.4174999999999995,
+    "sentimentLabel": "positive",
+    "themes": [
+      "today",
+      "felt",
+      "calm",
+      "nothing",
+      "special",
+      "happened",
+      "honestly",
+      "nice"
+    ]
+  }
+]

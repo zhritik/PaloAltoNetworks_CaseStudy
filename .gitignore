@@ -1,0 +1,30 @@
+# Environment (API keys; do not commit)
+.env
+
+# App data and config (user data, runtime state)
+journal.db
+.llm_config.json
+.ai_reflection.json
+.journal_last_prompt.json
+.journal_last_prompt_ts.json
+
+# Python
+__pycache__/
+.venv/
+venv/
+env/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# Streamlit
+.streamlit/
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/

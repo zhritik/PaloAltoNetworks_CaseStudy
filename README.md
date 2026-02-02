@@ -6,7 +6,7 @@ A personal AI journaling companion. Write daily entries, see insights and recurr
 
 ## Demo
 
-**[Watch a demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)** — replace `YOUR_VIDEO_ID` with your video ID, or paste your full demo link here.
+**[Watch a demo on YouTube](https://youtu.be/NW__Mr3htlg?si=ktzEsGv3yJUuLRqR)** — replace `YOUR_VIDEO_ID` with your video ID, or paste your full demo link here.
 
 ---
 
